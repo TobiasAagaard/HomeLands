@@ -5,6 +5,7 @@ export const Navbar = () => {
         <nav>
             <ul>
                 <li><NavLink to="/">Forside</NavLink></li>
+                <li><NavLink>Boliger til salg</NavLink></li>
                 <li><NavLink to="Login">Login</NavLink></li>
             </ul>
         </nav>
